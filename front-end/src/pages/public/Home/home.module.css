@@ -1,0 +1,24 @@
+.formularioConcorrente{
+  width: 400px;
+}
+
+.cabecalho{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.tituloCabecalho, .indiceCabecalho{
+  font-size: 17.5px;
+  font-weight: bold;
+}
+
+.slogan{
+  text-align: center;
+  margin: 40px 0;
+  line-height: 30px;
+  font-weight: bold;
+}
+
+button{margin-top: 10px;}
+button:nth-child(2){margin-top: 10px;}
